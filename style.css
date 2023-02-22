@@ -50,6 +50,7 @@ input[type=text] {
 table, td,tr, th {
     border-collapse:collapse;
     border: solid 1px lightgray;
+    width: 700px;
 }
 
 td,tr, th {
