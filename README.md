@@ -1,6 +1,6 @@
 # Entry-Search
 
-[Entry Search](https://brixsta.github.io/Entry-Finder/)
+[Entry Search](https://brixsta.github.io/Entry-Search/)
 
 - Vanilla JS
 - Faker JS to generate filler data
